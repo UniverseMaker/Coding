@@ -1,0 +1,56 @@
+Y:\Security\Coding\Coding\bin\Release\Coding.exe
+Y:\Security\Coding\Coding\bin\Release\Coding.pdb
+Y:\Security\Coding\Coding\obj\Release\ResolveAssemblyReference.cache
+Y:\Security\Coding\Coding\obj\Release\Coding.Form1.resources
+Y:\Security\Coding\Coding\obj\Release\Coding.Properties.Resources.resources
+Y:\Security\Coding\Coding\obj\Release\Coding.csproj.GenerateResource.Cache
+Y:\Security\Coding\Coding\obj\Release\Coding.exe
+Y:\Security\Coding\Coding\obj\Release\Coding.pdb
+C:\Users\Zeus\Desktop\Security\Coding\Coding\obj\Release\Coding.exe
+C:\Users\Zeus\Desktop\Security\Coding\Coding\obj\Release\Coding.pdb
+C:\Users\Zeus\Desktop\Security\Coding\Coding\bin\Release\Coding.exe
+C:\Users\Zeus\Desktop\Security\Coding\Coding\bin\Release\Coding.pdb
+C:\Users\Zeus\Desktop\Security\Coding\Coding\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Zeus\Desktop\Security\Coding\Coding\obj\Release\Coding.Form1.resources
+C:\Users\Zeus\Desktop\Security\Coding\Coding\obj\Release\Coding.Properties.Resources.resources
+C:\Users\Zeus\Desktop\Security\Coding\Coding\obj\Release\Coding.csproj.GenerateResource.Cache
+D:\Security\Coding\Coding\obj\Release\Coding.exe
+D:\Security\Coding\Coding\obj\Release\Coding.pdb
+D:\Security\Coding\Coding\bin\Release\Coding.exe
+D:\Security\Coding\Coding\bin\Release\Coding.pdb
+D:\Security\Coding\Coding\obj\Release\ResolveAssemblyReference.cache
+D:\Security\Coding\Coding\obj\Release\Coding.Form1.resources
+D:\Security\Coding\Coding\obj\Release\Coding.Properties.Resources.resources
+D:\Security\Coding\Coding\obj\Release\Coding.csproj.GenerateResource.Cache
+S:\Coding\Coding\obj\Release\Coding.exe
+S:\Coding\Coding\obj\Release\Coding.pdb
+S:\Coding\Coding\obj\Release\ResolveAssemblyReference.cache
+S:\Coding\Coding\obj\Release\Coding.Form1.resources
+S:\Coding\Coding\obj\Release\Coding.Properties.Resources.resources
+S:\Coding\Coding\obj\Release\Coding.csproj.GenerateResource.Cache
+S:\Coding\Coding\bin\Release\Coding.exe
+S:\Coding\Coding\bin\Release\Coding.pdb
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.exe
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.pdb
+A:\Archive\Eternity\Coding\Coding\obj\Release\ResolveAssemblyReference.cache
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.Properties.Resources.resources
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.csproj.GenerateResource.Cache
+A:\Archive\Eternity\Coding\Coding\bin\Release\Coding.exe
+A:\Archive\Eternity\Coding\Coding\bin\Release\Coding.pdb
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.Index.resources
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.FormAddString.resources
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.FormReplace.resources
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.FormMergeString.resources
+A:\Archive\Eternity\Coding\Coding\obj\Release\Coding.FormSplitString.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.exe
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.pdb
+G:\내 드라이브\Workspace\Windows\Coding\Coding\bin\Release\Coding.exe
+G:\내 드라이브\Workspace\Windows\Coding\Coding\bin\Release\Coding.pdb
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\ResolveAssemblyReference.cache
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.FormAddString.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.FormMergeString.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.FormReplace.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.FormSplitString.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.Index.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.Properties.Resources.resources
+G:\내 드라이브\Workspace\Windows\Coding\Coding\obj\Release\Coding.csproj.GenerateResource.Cache
